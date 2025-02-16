@@ -6,8 +6,8 @@ para facilitar o dia-a-dia das pessoas em suas residências\
 ou otimizando o tempo em empresas.
 ## Descricao da construcao do projeto:
 - Utilização de uma BeagleBoneBlack <br>
-- Sensor Ultrassonico [modelo HC-SR04] <br>
-- Servo Motor [modelo SG90] <br>
+- Sensor Ultrassonico **modelo HC-SR04** <br>
+- Servo Motor **modelo SG90** <br>
 - Display LCD com módulo I2C <br>
 
 ## Desenvolvimento do projeto:
