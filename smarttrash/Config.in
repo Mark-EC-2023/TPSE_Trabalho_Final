@@ -1,0 +1,6 @@
+config BR2_PACKAGE_SMARTTRASH
+    bool "SMARTTRASH Application"
+    help
+      Simple application to SMARTTRASH.
+      
+
