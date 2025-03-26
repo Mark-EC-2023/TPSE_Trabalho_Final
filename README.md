@@ -70,6 +70,6 @@ graph TD
 Este projeto foi desenvolvido pelos alunos do curso de Engenharia de Computação da Universidade Federal do Ceará - Campus Quixadá composto por:  
 
 - **Nathalia de Oliveira Lima** (Graduanda em Engenharia da Computação)  
-- **Marcos da Silva Nascimento** (Graduando em Engenharia de Computação)  
+- **Marcos da Silva Nascimento** (@Mark-EC-2023)  
 
 sob orientação do Prof. Dr. Francisco Helder Cândido dos Santos Filho.
