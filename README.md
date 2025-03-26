@@ -65,3 +65,11 @@ graph TD
     E[Fonte Alimentação] --> B
     E --> C
     E --> D
+```
+### Agradecimentos  
+Este projeto foi desenvolvido pelos alunos do curso de Engenharia de Computação da Universidade Federal do Ceará - Campus Quixadá **AutomaticBin** composto por:  
+
+- **Nathalia de Oliveira Lima** (Graduanda em Engenharia da Computação)  
+- **Marcos da Silva Nascimento** (Graduando em Engenharia de Computação)  
+
+sob orientação do Prof. Dr. [Nome do Professor].
